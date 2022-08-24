@@ -39,6 +39,7 @@ import food_emoji_dictionary from '../assets/projects/food_emoji_dictionary.png'
 import book_recommendation from '../assets/projects/book_recommendation.png';
 import shakespeare_english_translator from '../assets/projects/shakespeare_english_translator.png';
 import minion_speak from '../assets/projects/minion_speak.png';
+import calisthetics_shop from '../assets/projects/calisthetics_shop.png';
 export default {
   email,
   mobile,
@@ -77,5 +78,6 @@ export default {
   food_emoji_dictionary,
   book_recommendation,
   shakespeare_english_translator,
-  minion_speak
+  minion_speak,
+  calisthetics_shop
 };

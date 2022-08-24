@@ -97,6 +97,14 @@ const ProjectData = [
         imageURL: images.minion_speak,
         tag: ["API and Backend Apps", "All"]
     },
+    {
+        title: "An E-Commerce Shop Website",
+        description: "Calisthetics Shop is an exclusive e-commerce app where you can find all your Training Equipment and Apparels.",
+        projectLink: "https://calesthetics-shop.netlify.app/index.html",
+        codeLink: "https://github.com/iamalhera/Calisthetics-Shop",
+        imageURL: images.calisthetics_shop,
+        tag: ["Websites", "All"]
+    },
 ];
 
 export default ProjectData;
