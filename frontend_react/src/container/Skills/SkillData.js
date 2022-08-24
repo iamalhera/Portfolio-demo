@@ -18,7 +18,7 @@ const SkillData = [
         icon : images.css
     },
     {
-        name : "git",
+        name : "Git",
         icon : images.git
     },
     {
@@ -26,32 +26,40 @@ const SkillData = [
         icon : images.js
     },
     {
-        name : "JavaScript",
-        icon : images.js
+        name : "React Router",
+        icon : images.react_router
     },
     {
-        name : "JavaScript",
-        icon : images.js
+        name : "GitHub",
+        icon : images.github
     },
     {
-        name : "JavaScript",
-        icon : images.js
+        name : "firebase",
+        icon : images.firebase
     },
     {
-        name : "JavaScript",
-        icon : images.js
+        name : "Netlify",
+        icon : images.netlify
     },
     {
-        name : "JavaScript",
-        icon : images.js
+        name : "C",
+        icon : images.c
     },
     {
-        name : "JavaScript",
-        icon : images.js
+        name : "Cpp",
+        icon : images.cpp
     },
     {
-        name : "JavaScript",
-        icon : images.js
+        name : "Material UI",
+        icon : images.mu5
+    },
+    {
+        name : "Tailwind CSS",
+        icon : images.tailwind_css
+    },
+    {
+        name : "API",
+        icon : images.api
     },
 ];
 
