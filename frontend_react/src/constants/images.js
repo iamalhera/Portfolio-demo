@@ -40,6 +40,11 @@ import book_recommendation from '../assets/projects/book_recommendation.png';
 import shakespeare_english_translator from '../assets/projects/shakespeare_english_translator.png';
 import minion_speak from '../assets/projects/minion_speak.png';
 import calisthetics_shop from '../assets/projects/calisthetics_shop.png';
+
+import blog01 from '../assets/Blogs/blog01.png';
+import blog02 from '../assets/Blogs/blog02.png';
+import blog03 from '../assets/Blogs/blog03.png';
+
 export default {
   email,
   mobile,
@@ -79,5 +84,8 @@ export default {
   book_recommendation,
   shakespeare_english_translator,
   minion_speak,
-  calisthetics_shop
+  calisthetics_shop,
+  blog01,
+  blog02,
+  blog03
 };
