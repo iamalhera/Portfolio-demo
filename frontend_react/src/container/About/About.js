@@ -3,7 +3,6 @@ import './About.scss';
 import { motion } from 'framer-motion';
 import { images } from '../../constants';
 import { AppWrap, MotionWrap } from '../../wrapper';
-// import { urlFor, client } from '../../client';
 const abouts = [
   { title: 'Frontend Developer', description: 'I am a frontend developer with a passion for building beautiful and functional web applications', imgURL: images.about01 },
   { title: 'Computer Engineer', description: 'I have completed my Engineering from ZHCET-AMU in 2022', imgURL: images.amu },
